@@ -1,0 +1,3 @@
+2024-06-08 18:12:44.612 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/felipe/.config/alacritty/alacritty.toml","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-06-08 18:12:45.588 [info] Started local extension host with pid 10379.
+2024-06-08 18:12:48.801 [info] [perf] Render performance baseline is 91ms
